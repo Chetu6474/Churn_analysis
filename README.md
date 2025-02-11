@@ -13,7 +13,7 @@ In today’s competitive business environment, retaining customers is crucial fo
 - **Colors Used:** `#FFF5C2 #9F9FD0 #7676BC `
 
 ## 📈 Target Audience
-While this project focuses on a telecom firm, the techniques are applicable across various industries, including retail, finance, and healthcare.
+While this project focuses on a telecom firm, the techniques are applicable across various industries, including **retail, finance, and healthcare**.
 
 ## 🎯 Project Goals
 - Implement an ETL process in SQL Server
