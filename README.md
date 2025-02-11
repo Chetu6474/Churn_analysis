@@ -3,7 +3,7 @@
 
 # Churn Analysis Project
 
-## Introduction
+## ★ Introduction
 In today’s competitive business environment, retaining customers is crucial for long-term success. Churn analysis is a key technique used to understand and reduce customer attrition. This project leverages data analytics and machine learning to predict churn and identify factors contributing to customer departures.
 
 ## Data & Resources
