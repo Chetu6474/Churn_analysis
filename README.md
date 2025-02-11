@@ -1,5 +1,6 @@
 ## Live Interactive Dashboard  
 👉 [Click here to view the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc4YjYzNzItNzBlOC00ZjZlLWFlNDUtNzRlNzk2YTFlMTk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ![Alt text](https://github.com/Chetu6474/Churn_analysis/blob/main/Dashboard.png)
 
 # Churn Analysis Project
